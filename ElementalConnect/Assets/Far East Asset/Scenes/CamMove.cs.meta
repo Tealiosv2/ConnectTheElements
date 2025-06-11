@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7c7b01d4aa7d6884e8fd29b80bb2f59b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138397
+  packageName: Modular PBR Japanese Environment
+  packageVersion: 1.0
+  assetPath: Assets/Far East Asset/Scenes/CamMove.cs
+  uploadId: 291124
